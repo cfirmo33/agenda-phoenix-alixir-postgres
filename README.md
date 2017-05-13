@@ -1,4 +1,6 @@
-# Agenda
+# agenda-phoenix-alixir-postgres
+
+First Elixir and Phoenix Project
 
 To start your Phoenix app:
 
